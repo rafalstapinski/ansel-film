@@ -50,7 +50,11 @@ This is the official home for all things Ansel-related.
 
 * Batch processing
   * Save processing (negative color correction) recipe or edit recipe and apply it to individual images or automatically to images taken on the same film stock.
+* Negative inversion presets
+  * Emulate the look you'd get from popular lab-scanners and other presets (e.g. warm tone, cool tone, etc)
 * Raw image support
 * Filtering gallery by metadata (film type, stock, format, and camera)
+* Scanner and DSLR support
+  * Use Ansel as an end-to-end tool to drive your flatbed scanner or DSLR and import and categorize your scans directly
 
 Don't see something? Submit a [feature request](https://github.com/rafalstapinski/ansel-film/issues/new?assignees=&labels=&template=feature_request.md&title=)!
